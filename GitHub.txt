@@ -11,3 +11,7 @@ git config --global user.email "diego.cuasapaz.heredia@outlook.com"
 # Download Github 
 sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.9.3-linux3/GitHubDesktop-linux-2.9.3-linux3.deb
 # Open install for windows explorer
+
+# References
+https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1
+https://docs.github.com/es/get-started
