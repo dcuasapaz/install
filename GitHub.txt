@@ -1,0 +1,13 @@
+# Install Git
+sudo apt install git 
+# View version Git
+git --version
+# Config data
+git config --global user.name "Diego Cuasapaz"
+# Config email
+git config --global user.email "diego.cuasapaz.heredia@outlook.com"
+
+# Install Github desktop
+# Download Github 
+sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.9.3-linux3/GitHubDesktop-linux-2.9.3-linux3.deb
+# Open install for windows explorer
