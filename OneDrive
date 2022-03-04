@@ -1,0 +1,22 @@
+# Code
+sudo apt install libcurl4-openssl-dev
+sudo apt install libsqlite3-dev
+sudo snap install --classic dmd
+sudo snap install --classic dub
+sudo apt install make 
+sudo apt install make-guile
+
+
+git clone https://github.com/xybu92/onedrive-d.git
+cd onedrive-d
+./install.sh 
+onedrive-pref
+
+# Copy link paste in your browser
+https://login.live.com/oauth20_authorize.srf?client_id=000000004010C916&scope=wl.skydrive+wl.skydrive_update+wl.offline_access&response_type=code&redirect_uri=https%3A%2F%2Flogin.live.com%2Foauth20_desktop.srf&display=touch&locale=en
+# Copy https://login.live.com/oauth20_desktop.srf?code=M.R3_BAY.51bf62e0-82b0-3a1c-91b6-9f6ad2445870&lc=1033link generate in browser
+https://login.live.com/oauth20_desktop.srf?code=M.R3_BAY.51bf62e0-82b0-3a1c-91b6-9f6ad2445870&lc=1033
+
+# References
+# https://espaciotecnologico.co/instalar-onedrive-en-ubuntu-linux/
+# https://ubunlog.com/como-tener-acceso-onedrive-desde-el-escritorio-de-ubuntu/
