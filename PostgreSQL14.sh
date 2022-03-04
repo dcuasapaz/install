@@ -33,3 +33,4 @@ ALTER USER postgres PASSWORD 'Pst!22!GIS';
 
 # References
 # https://techviewleo.com/how-to-install-postgresql-database-on-ubuntu/
+# https://chartio.com/resources/tutorials/how-to-set-the-default-user-password-in-postgresql/
