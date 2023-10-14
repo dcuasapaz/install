@@ -51,3 +51,8 @@ python --version
 # Install cloudera
 chmod u+x cloudera-manager-installer.bin
 sudo ./cloudera-manager-installer.bin
+
+# Usar htop
+yum install -y epel-release
+yum install -y htop
+
